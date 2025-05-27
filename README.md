@@ -5,6 +5,10 @@ This is a compact FPGA development board built around the **Xilinx Spartan-6 XC6
 With onboard USB interfacing via **FT2232H**, this board allows **direct programming and debugging** without the need for an external programmer. It also includes external **SDRAM** and **SPI Flash**, making it suitable for more complex projects such as **image processing**, **soft-core processors**, and **lightweight embedded operating systems**.
 
 ---
+<p align="center">
+  <img src="PCB_3D.PNG" alt="Board Image" width="700">
+</p>
+---
 
 ## ⚙️ Key Features
 
